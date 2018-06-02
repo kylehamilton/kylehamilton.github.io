@@ -11,6 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>rOpenSci Unconference 2018</title>
+      <link>/post/2018-06-01-ropensci-unconf-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-06-01-ropensci-unconf-2018/</guid>
+      <description>&lt;p&gt;Last month I flew to Seattle Washington to take part in the fifth &lt;a href=&#34;http://unconf18.ropensci.org&#34;&gt;rOpenSci Unconference&lt;/a&gt;. This event brought together about 60 R developers from academia, industry, government, and the non-profit sector to work projects that will help the R ecosystem. A bonus of having the event in Seattle was our event sponsor Microsoft hosted us at their downtown Seattle Reactor space which was a great experience and area to work in.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;A few snapshots from &lt;a href=&#34;https://twitter.com/hashtag/runconf18?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#runconf18&lt;/a&gt;. Thank you &lt;a href=&#34;https://twitter.com/StefanieButland?ref_src=twsrc%5Etfw&#34;&gt;@StefanieButland&lt;/a&gt; &lt;a href=&#34;https://twitter.com/rOpenSci?ref_src=twsrc%5Etfw&#34;&gt;@rOpenSci&lt;/a&gt; and all for the eye-opening two days. &lt;a href=&#34;https://t.co/v1C89eKltP&#34;&gt;pic.twitter.com/v1C89eKltP&lt;/a&gt;&lt;/p&gt;&amp;mdash; Isabella Velásquez (@ivelasq3) &lt;a href=&#34;https://twitter.com/ivelasq3/status/999342270045343744?ref_src=twsrc%5Etfw&#34;&gt;May 23, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;I’ve been a part of the rOpenSci community since 2014 when I submitted my first two R packages to them. To give a sense of how much things have changed back then there wasn’t a formal on boarding process with peer review like there is now. After I started graduate school my time and focus shifted more towards my work and classes instead of writing code for rOpenSci projects. Coming to this year’s Unconference got me active in the community again. I even got to meet other social scientists which is always exciting since there aren’t a lot of us in the R community. On the first day of the Unconference after a couple of ice breakers we all broke out into different groups to focus on some of the projects that were submitted to the GitHub repo ahead of time. I decided to work on package mchtoolbox: Maternal Child Health Toolbox since it was work that was aligned with my academic interests. This package is important since it uses reference data from the CDC to calculate percentiles, z-scores, and related values for child health research and public health surveillance. One thing I was able to contribute to the group was the creation of a Shiny app for our package as well as gathering some example data from NHANES. I got to work with some amazing people on this project including our project leader &lt;a href=&#34;https://github.com/monicagerber&#34;&gt;Monica W. Gerber&lt;/a&gt;, &lt;a href=&#34;https://github.com/softloud&#34;&gt;Charles T. Gray&lt;/a&gt;, &lt;a href=&#34;https://jenthompson.me/&#34;&gt;Jennifer Thompson&lt;/a&gt;, and &lt;a href=&#34;https://www.esr.cri.nz/&#34;&gt;Jenny Draper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Our package has one exported function... AND a hex sticker. Which means we&amp;#39;re professionals. (Design work by &lt;a href=&#34;https://twitter.com/kylehamilton?ref_src=twsrc%5Etfw&#34;&gt;@kylehamilton&lt;/a&gt; courtesy of the `hexSticker` package.) &lt;a href=&#34;https://twitter.com/hashtag/runconf18?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#runconf18&lt;/a&gt; &lt;a href=&#34;https://t.co/MqlB2F5QFi&#34;&gt;pic.twitter.com/MqlB2F5QFi&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jennifer Thompson (@jent103) &lt;a href=&#34;https://twitter.com/jent103/status/999002538350297089?ref_src=twsrc%5Etfw&#34;&gt;May 22, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Thank you 🙏 &lt;a href=&#34;https://twitter.com/jent103?ref_src=twsrc%5Etfw&#34;&gt;@jent103&lt;/a&gt; &lt;a href=&#34;https://twitter.com/learithe?ref_src=twsrc%5Etfw&#34;&gt;@learithe&lt;/a&gt; &lt;a href=&#34;https://twitter.com/kylehamilton?ref_src=twsrc%5Etfw&#34;&gt;@kylehamilton&lt;/a&gt; &lt;a href=&#34;https://twitter.com/cantabile?ref_src=twsrc%5Etfw&#34;&gt;@cantabile&lt;/a&gt; for working with me today at &lt;a href=&#34;https://twitter.com/hashtag/runconf18?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#runconf18&lt;/a&gt;! I’ve already learned so much! &lt;a href=&#34;https://t.co/QPBrqpuTDk&#34;&gt;pic.twitter.com/QPBrqpuTDk&lt;/a&gt;&lt;/p&gt;&amp;mdash; Monica Gerber (@mwgerber) &lt;a href=&#34;https://twitter.com/mwgerber/status/998773541242683393?ref_src=twsrc%5Etfw&#34;&gt;May 22, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;Although I spent a majority of my time working on the mchtoolbox project I’m planning to also start helping with the qualitative data coding package &lt;a href=&#34;https://github.com/ropenscilabs/qcoder&#34;&gt;qcoder&lt;/a&gt;. If your passionate about R and about helping expand R into new areas I highly recommend applying to the next rOpenSci Unconference. I made some great friends and professional contacts as well as learn a lot about R and the rOpenSci community. This event was unforgettable, and the community is super supportive check them out and get involved you won’t regret it &lt;a href=&#34;https://ropensci.org/community/&#34; class=&#34;uri&#34;&gt;https://ropensci.org/community/&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;A sincere thank you to all participants in &lt;a href=&#34;https://twitter.com/hashtag/runconf18?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#runconf18&lt;/a&gt; &lt;br&gt;&lt;br&gt;This thread👇includes links to all project repos: &lt;a href=&#34;https://t.co/2PhAz4zSuK&#34;&gt;https://t.co/2PhAz4zSuK&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://t.co/8SICcWkQ0v&#34;&gt;pic.twitter.com/8SICcWkQ0v&lt;/a&gt;&lt;/p&gt;&amp;mdash; rOpenSci (@rOpenSci) &lt;a href=&#34;https://twitter.com/rOpenSci/status/1000024996876468224?ref_src=twsrc%5Etfw&#34;&gt;May 25, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>MAJOR: Meta Analysis JamOvi R</title>
       <link>/publication/major/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 -0700</pubDate>
@@ -38,11 +61,48 @@
     </item>
     
     <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MAVIS: Meta Analysis via Shiny</title>
       <link>/publication/mavis-talk/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0700</pubDate>
       
       <guid>/publication/mavis-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
       <description></description>
     </item>
     

@@ -26,13 +26,13 @@
 
 html {
   font-family: 'Roboto', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 
@@ -1135,7 +1135,7 @@ footer a#back_to_top i {
 }
 
 nav#navbar-main li {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .navbar-default .navbar-nav>li>a,
