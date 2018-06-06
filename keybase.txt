@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kylehamilton
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kylehamilton.com
+  * I am kylehamilton (https://keybase.io/kylehamilton) on keybase.
+  * I have a public key ASDOYPyjLPg1wrzcaX9VSgZrLAnh03orkLH7G7gCRqFL7go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ce60fca32cf835c2bcdc697f554a066b2c09e1d37a2b90b1fb1bb80246a14bee0a",
+      "host": "keybase.io",
+      "kid": "0120ce60fca32cf835c2bcdc697f554a066b2c09e1d37a2b90b1fb1bb80246a14bee0a",
+      "uid": "1db7fe8489adc4de7fc658c19a8a7b19",
+      "username": "kylehamilton"
+    },
+    "merkle_root": {
+      "ctime": 1528326031,
+      "hash": "08d2804961927ab118aade9b09b274649c4021034d31636d4eaf1047e6cbb5ebd012d15bbdf6b6a7f778533155757d8a712a47cf7277b2f2d065080a15f615d6",
+      "hash_meta": "31d6a9d9f6b6698e00e27ead5f40fdf7ffe419bc8665fcf85f5b6fcf73ca6c32",
+      "seqno": 3037042
+    },
+    "service": {
+      "entropy": "7b70ZgtGhAIgnb9CdQEUUwDa",
+      "hostname": "kylehamilton.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.0.0"
+  },
+  "ctime": 1528326048,
+  "expire_in": 504576000,
+  "prev": "94ae905b2c2be4105ece644125910d88c66f795f2719b2bdad51b181494cdfb4",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzmD8oyz4NcK83Gl/VUoGaywJ4dN6K5Cx+xu4AkahS+4Kp3BheWxvYWTESpcCCMQglK6QWywr5BBezmRBJZENiMZveV8nGbK9rVGxgUlM37TEIC9rBawC8m19Gfh39d1KpXtjvPTjFdEPPNT7SIeIygNdAgHCo3NpZ8RAI4J8SoROhPzHyiPvZlGe9wAhhMmKoMPCJc4LkdDvq2UGHxtKIMRr9DDyNyCzl/bQonFYbm4xnfnasLAkZnCnAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBYW4Y/s37o81plyRbfE1OUt/IT/Fi2NRM9/x5Ru0RMOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kylehamilton
+
+==================================================================
