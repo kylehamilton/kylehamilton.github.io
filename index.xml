@@ -80,30 +80,31 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
+      <title>Shiny Apps</title>
+      <link>/project/shinyapps/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <guid>/project/shinyapps/</guid>
+      <description>&lt;p&gt;MAVIS (Meta-Analysis via Shiny) is a web application and R package for running a meta-analysis with Shiny and R.
+Online Demo &lt;a href=&#34;http://kylehamilton.net/shiny/MAVIS/&#34; target=&#34;_blank&#34;&gt;http://kylehamilton.net/shiny/MAVIS/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;aRma
+aRma is the Turkish version of MAVIS. Burak Aydin at Recep Tayyip Erdoğan University in Rize Turkey translated and maintains this application and part of the MAVIS R package.
+Online Demo &lt;a href=&#34;http://kylehamilton.net/shiny/aRma/&#34; target=&#34;_blank&#34;&gt;http://kylehamilton.net/shiny/aRma/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;lavaan.shiny (Latent Variable Analysis with Shiny) is a Shiny wrapper to the lavaan package. Currently lavaan.shiny allows users to run confirmatory factor analysis, growth curve models, and structural equation models.
+Online Demo &lt;a href=&#34;http://kylehamilton.net/shiny/lavaan.shiny/&#34; target=&#34;_blank&#34;&gt;http://kylehamilton.net/shiny/lavaan.shiny/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;CTTShiny is a Shiny application for running classical test theory and item analysis with Shiny.
+Online Demo &lt;a href=&#34;http://kylehamilton.net/shiny/CTTShiny/&#34; target=&#34;_blank&#34;&gt;http://kylehamilton.net/shiny/CTTShiny/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;p&gt;IRTShiny is a Shiny application for running item
+response theory analysis with Shiny.
+Online Demo &lt;a href=&#34;http://kylehamilton.net/shiny/IRTShiny/&#34; target=&#34;_blank&#34;&gt;http://kylehamilton.net/shiny/IRTShiny/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PACA is a Shiny application for running principle components analysis with Shiny.
+Online Demo &lt;a href=&#34;http://kylehamilton.net/shiny/PACA/&#34; target=&#34;_blank&#34;&gt;http://kylehamilton.net/shiny/PACA/&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
