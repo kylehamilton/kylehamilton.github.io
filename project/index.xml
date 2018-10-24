@@ -13,14 +13,21 @@
     
     
     <item>
-      <title>Shiny Apps</title>
-      <link>/project/shinyapps/</link>
+      <title>Deep Learning</title>
+      <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/project/shinyapps/</guid>
-      <description>MAVIS (Meta-Analysis via Shiny) is a web application and R package for running a meta-analysis with Shiny and R. Online Demo http://kylehamilton.net/shiny/MAVIS/
-aRma aRma is the Turkish version of MAVIS. Burak Aydin at Recep Tayyip Erdoğan University in Rize Turkey translated and maintains this application and part of the MAVIS R package. Online Demo http://kylehamilton.net/shiny/aRma/
-lavaan.shiny (Latent Variable Analysis with Shiny) is a Shiny wrapper to the lavaan package. Currently lavaan.</description>
+      <guid>/project/deep-learning/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
     </item>
     
   </channel>
